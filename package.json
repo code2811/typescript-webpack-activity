@@ -4,6 +4,7 @@
   "description": "Converting a JS project to TypeScript with a Webpack build setup.",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
